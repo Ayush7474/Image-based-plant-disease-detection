@@ -6,5 +6,5 @@ This project aims to detect diseases in tomato plants using a Convolutional Neur
 ## Features
 
 - CNN model for tomato plant disease detection
-- Madeley's dataset included
+- Madeley's dataset included https://data.mendeley.com/datasets/ngdgg79rzb/1
 - Project report for detailed insights and results
